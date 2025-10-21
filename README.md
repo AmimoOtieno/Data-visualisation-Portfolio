@@ -63,10 +63,6 @@ Included a critical review of an external data visualization — *“Drought’s
 1. Download the full report:  
    📄 [Data Visualization Portfolio (PDF)](./Data%20Visualization%20Portfolio.pdf)
 
-2. Explore visualizations on Tableau Public (if uploaded):  
-   🌐 [Tableau Public Profile](#) ← *(Insert your Tableau Public URL here)*
-
----
 
 ## 👩‍💻 Author
 
