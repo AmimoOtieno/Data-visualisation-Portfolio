@@ -1,6 +1,6 @@
-# 📊 Data Visualization Portfolio
+# 📊 Data Visualisation Portfolio
 
-A comprehensive portfolio showcasing interactive data visualizations created using **Tableau**.  
+A comprehensive portfolio showcasing interactive data visualisations created using **Tableau**.  
 This project demonstrates strong data storytelling, visual design, and analytical interpretation skills across multiple domains such as **sports analytics**, **healthcare**, **finance**, **artificial intelligence**, and **entertainment**.
 
 ---
@@ -8,23 +8,23 @@ This project demonstrates strong data storytelling, visual design, and analytica
 ## 🎯 Overview
 
 This portfolio highlights the ability to transform raw datasets into clear, meaningful, and visually compelling insights.  
-Each visualization was designed with a specific audience and communication goal in mind, applying the **4Cs of data visualization** — *Clean, Clear, Concise, and Captivating.*
+Each visualisation was designed with a specific audience and communication goal in mind, applying the **4Cs of data visualisation** — *Clean, Clear, Concise, and Captivating.*
 
 ---
 
 ## 💡 Key Highlights
 
-- Designed and developed **six interactive visualizations** using public datasets.  
+- Designed and developed **six interactive visualisations** using public datasets.  
 - Applied data storytelling principles to communicate trends and insights effectively.  
 - Integrated **Tableau’s interactive features** (filters, tooltips, and hover effects) to enhance user engagement.  
-- Conducted a **critical assessment** of a published visualization, offering recommendations for improved clarity and usability.  
+- Conducted a **critical assessment** of a published visualisation, offering recommendations for improved clarity and usability.  
 - Demonstrated proficiency in **data preparation, visual analytics, and insight communication**.
 
 ---
 
-## 📈 Visualizations Included
+## 📈 Visualisations Included
 
-| # | Visualization Title | Focus Area | Tool |
+| # | Visualisation Title | Focus Area | Tool |
 |---|---------------------|-------------|------|
 | 1 | Giannis Antetokounmpo: Points and Opponents in the Last 10 Games | Sports Analytics | Tableau |
 | 2 | The Most Beautiful News of 2023: Awesomeness Ratings by Category | Media & Lifestyle | Tableau |
@@ -37,7 +37,7 @@ Each visualization was designed with a specific audience and communication goal 
 
 ## 🛠️ Tools & Technologies
 
-- **Tableau Public** – for data visualization and storytelling  
+- **Tableau Public** – for data visualisation and storytelling  
 - **Excel / Google Sheets** – for dataset preparation and cleaning  
 - **Public Datasets** – sourced from Tableau Public and other open repositories  
 
@@ -47,27 +47,27 @@ Each visualization was designed with a specific audience and communication goal 
 
 - Identified **performance trends** in NBA player statistics to inform sports analysis.  
 - Highlighted **regional disparities** in NHS wheelchair accessibility.  
-- Visualized **growth in AI model releases** to communicate the evolution of AI technology.  
+- Visualised **growth in AI model releases** to communicate the evolution of AI technology.  
 - Mapped **financial allocation patterns** to support data-driven healthcare funding decisions.  
 
 ---
 
 ## 🧠 Critical Assessment
 
-Included a critical review of an external data visualization — *“Drought’s Footprint” by The New York Times* — with recommendations for improved **legend clarity, color scheme**, and **interactivity**.
+Included a critical review of an external data visualisation — *“Drought’s Footprint” by The New York Times* — with recommendations for improved **legend clarity, color scheme**, and **interactivity**.
 
 ---
 
 ## 📂 How to View
 
 1. Download the full report:  
-   📄 [Data Visualization Portfolio (PDF)](./Data%20Visualization%20Portfolio.pdf)
+   📄 [Data visualisation Portfolio (PDF)](./Data%20visualisation%20Portfolio.pdf)
 
 
 ## 👩‍💻 Author
 
 **Hellen Otieno**  
-Data Analyst | Visualization Specialist | Business Intelligence Enthusiast  
+Data Analyst | visualisation Specialist | Business Intelligence Enthusiast  
 📧 hellen@example.com *(optional)*  
 🔗 [LinkedIn](#) | [GitHub](#)
 
