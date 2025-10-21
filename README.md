@@ -67,9 +67,8 @@ Included a critical review of an external data visualisation — *“Drought’s
 ## 👩‍💻 Author
 
 **Hellen Otieno**  
-Data Analyst | visualisation Specialist | Business Intelligence Enthusiast  
-📧 hellen@example.com *(optional)*  
-🔗 [LinkedIn](#) | [GitHub](#)
+Data Analyst | Visualisation Specialist | Business Intelligence Enthusiast  
+📧 hellenamimo72@gmail.com
 
 ---
 
